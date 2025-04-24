@@ -1,5 +1,4 @@
-# Name : MEET VASWANI
-# ROLL NO. : 24BIT190
+
 
 # 1. Print all alphabets in upper case and in lower case
 def print_alphabets():
